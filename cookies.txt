@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.gob.pe	TRUE	/	FALSE	1999999999	_epic_alpha_session	H2XcE9kUEIXNZeWqZGoTL9Rcm19TbZVAx3kHUd4p9CLtzPlpTuw%2Bj8EuWgb5V%2Fl%2BPAiyDgsWRQkzl%2BqBKjpaEa151Q0qfMEgUTqxEQ46DkKS3ASXhr0BEmlg5g6ulDlLaZrVdvN5sRoO83epUsa%2FesTeAGLU3T%2ByJVdygJrJMm%2FrSjTQdHZyXjHiKS3vDRQjbI%2Fb0kNQfXe9Xx617%2BiQKSJm6Ysmhx1R9WWWmAEV7joNf1g5WTqSPeGfzPpcIrx26xxWocA6REg%2BShfnXMcMXyri9O%2FEpI%2Bm5mVY--GwFVUZg0T%2FgOy%2F7k--ITd%2Fhp%2Foec5dd%2Fp41fWScg%3D%3D
+
